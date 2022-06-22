@@ -1,0 +1,30 @@
+{
+    "name": "Binary Birds packages",
+    "overview": "This collection contains the our favorite Swift packages.",
+    "author": {
+        "name": "Tibor Bödecs"
+    },
+    "keywords": [
+        "favorite"
+    ],
+    "packages": [
+        {
+            "url": "https://github.com/binarybirds/swift-html"
+        },
+        {
+            "url": "https://github.com/BinaryBirds/liquid"
+        },
+        {
+            "url": "https://github.com/BinaryBirds/liquid-kit"
+        },
+        {
+            "url": "https://github.com/BinaryBirds/liquid-local-driver"
+        },
+        {
+            "url": "https://github.com/BinaryBirds/liquid-aws-s3-driver"
+        },
+        {
+            "url": "https://github.com/BinaryBirds/spec"
+        }
+    ]
+}
